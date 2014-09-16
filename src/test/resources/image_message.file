@@ -1,0 +1,9 @@
+ <xml>
+ <ToUserName>1398adlfj9jlakdsjf</ToUserName>
+ <FromUserName>1u983ljdaslfjlajf></FromUserName> 
+ <CreateTime>1348831860</CreateTime>
+ <MsgType>image</MsgType>
+ <PicUrl><![CDATA[http://www.google.com/logo.png]]></PicUrl>
+ <MsgId>1234567890123456</MsgId>
+ <MediaId><![CDATA[media_id]]></MediaId>
+ </xml>
